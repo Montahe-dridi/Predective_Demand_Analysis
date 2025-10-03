@@ -1,0 +1,5 @@
+ModelName,Algorithm,Accuracy,Precision,Recall,R2_Score,RMSE,TrainingSamples,TestSamples,Status
+Delivery Variance Prediction,Gradient Boost Regression,100.0,100.0,100.0,1.0,0.074,1446,362,Production
+Invoice Profit Prediction,Lasso Regression,100.0,100.0,100.0,1.0,4.424,44208,11052,Production
+On-Time Delivery Classification,Gradient Boost Classification,85.0,87.0,83.0,,,20725,5182,Production
+Payment Status Classification,Random Forest Classification,92.0,90.0,94.0,,,44208,11052,Production

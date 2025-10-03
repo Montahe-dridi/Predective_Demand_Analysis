@@ -1,0 +1,26 @@
+{
+  "pipeline_info": {
+    "execution_timestamp": "2025-09-28T18:14:09.841726",
+    "pipeline_version": "2.3_with_exports",
+    "data_sample_limit": null,
+    "total_models_trained": 14
+  },
+  "data_summary": {
+    "shipments_None": {
+      "rows": 25907,
+      "columns": 18,
+      "memory_mb": 3.38,
+      "date_range": "1970-01-01 to 1970-01-01"
+    },
+    "invoices_None": {
+      "rows": 55260,
+      "columns": 13,
+      "memory_mb": 12.7,
+      "date_range": "1970-01-01 to 1970-01-01"
+    }
+  },
+  "model_results": {},
+  "recommendations": [
+    "\ud83d\udd04 Pipeline completed but no strong insights. Try more data/features."
+  ]
+}

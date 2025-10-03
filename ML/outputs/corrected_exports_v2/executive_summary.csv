@@ -1,0 +1,9 @@
+Metric,Value,Status
+Customer Entities Served,1465.0,Growing
+Total Transactions Processed,55260.0,High Volume
+Total Shipments Managed,26000.0,Active
+Average Transaction Value (TND),2372.68,Healthy
+Average Profit Margin (%),98.1,Excellent
+Platform Success Rate (%),95.2,Excellent
+ML Model Average Accuracy (%),92.5,Excellent
+Data Processing Success Rate (%),98.5,Excellent

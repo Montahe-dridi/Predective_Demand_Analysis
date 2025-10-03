@@ -1,0 +1,5 @@
+Model,Algorithm,Performance
+DeliveryVariance,GradientBoost,R²=0.99
+InvoiceProfit,Lasso,R²=0.98
+OnTimeDelivery,GradientBoost,Acc=85%
+PaymentStatus,RandomForest,Acc=92%
